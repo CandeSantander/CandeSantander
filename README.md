@@ -4,7 +4,7 @@ I am a **Technical Functional Analyst and QA Professional** with a strong focus 
 
 ### 🚀 About Me
 - 🎓 **Education:** Software Engineering Student at UNLaM.
-- 💼 **Experience:** Background as a **Technical Functional Analyst** (Zoho & Botmaker) and currently a **QA Analyst** at **VTEX**, ensuring high-quality e-commerce experiences.
+- 💼 **Experience:** Background as a **Technical Functional Analyst** (Zoho & Botmaker) and currently working as a **QA Analyst** in the **VTEX**, ensuring high-quality e-commerce experiences.
 - ⚙️ **Focus:** I specialize in analyzing complex workflows, from CRM integrations to e-commerce checkout processes.
 - 🌎 **Languages:** I'm actively improving my English skills for global collaboration.
 
@@ -16,7 +16,7 @@ I am a **Technical Functional Analyst and QA Professional** with a strong focus 
 - **Management:** QA Metrics & KPIs, Team Leadership, and Process Optimization.
 
 ### 💡 Featured Projects
-Under construction...
+🛠️ Currently working on new repositories. Coming soon!
 
 ### 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/candela-santander/) | [Email](mailto:candesantanderok@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/candela-santander/) | 📧 [Email](mailto:candesantanderok@gmail.com)
