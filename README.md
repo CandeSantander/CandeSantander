@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Candela!
 
-I am a **Technical Functional Analyst and QA Professional** with a strong focus on software quality and functional logic. I bridge the gap between business requirements and technical solutions.
+I am a **Technical Functional Analyst and QA Professional** with a strong focus on software quality and functional logic.
 
 ### 🚀 About Me
 - 🎓 **Education:** Software Engineering Student at UNLaM.
@@ -11,7 +11,7 @@ I am a **Technical Functional Analyst and QA Professional** with a strong focus 
 ### 🛠️ Tech Stack & Tools
 - **Analysis:** UML, Business Rules, Functional Specifications, Systems Integration.
 - **Databases:** SQL Server (Modeling, Normalization & Querying).
-- **Platforms:** VTEX IO, Zoho One, Botmaker, MessageBird.
+- **Platforms:** VTEX, Zoho One, Botmaker, MessageBird.
 - **Quality Assurance:** Manual Testing, Bug Reporting, Test Plans & Test Cases.
 - **Management:** QA Metrics & KPIs, Team Leadership, and Process Optimization.
 
